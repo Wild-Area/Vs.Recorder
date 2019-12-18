@@ -6,6 +6,18 @@ The Vs. Recorder missing in Pokemon Sword & Shield.
 
 ## Development
 
+### Install pipenv
+
+```
+pip3 install pipenv --user
+```
+
+### Install dependencies
+
+```
+pipenv install
+```
+
 ## License
 
 -----
