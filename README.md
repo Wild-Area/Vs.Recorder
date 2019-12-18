@@ -42,7 +42,7 @@ Then, set the path to `.vscode/settings.json`:
 ### Run tests
 
 ```
-python -m unittest discover
+pytest
 ```
 
 ## License
