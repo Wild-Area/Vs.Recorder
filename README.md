@@ -15,7 +15,28 @@ pip3 install pipenv --user
 ### Install dependencies
 
 ```
-pipenv install
+pipenv install --dev
+```
+
+### Setup VS Code
+
+Frist, get the python path from pipenv:
+
+```
+pipenv --py
+```
+
+Then, set the path to `.vscode/settings.json`:
+```
+{
+    "python.pythonPath": "/home/myuser/.local/share/virtualenvs/projectname/bin/python"
+}
+```
+
+### Run tests
+
+```
+python -m unittest discover
 ```
 
 ## License
