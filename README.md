@@ -18,6 +18,12 @@ pip3 install pipenv --user
 pipenv install --dev
 ```
 
+### Enter pipenv shell
+
+```
+pipenv shell
+```
+
 ### Setup VS Code
 
 Frist, get the python path from pipenv:
