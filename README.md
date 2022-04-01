@@ -1,5 +1,8 @@
 # Vs. Recorder
 
+**Important note: We restarted this project in another repo and another programming language.**
+**Please see [`VsRecorder.jl`](https://github.com/Wild-Area/VsRecorder.jl).**
+
 The Vs. Recorder missing in Pokemon Sword & Shield.
 
 ## Installation & Usage
